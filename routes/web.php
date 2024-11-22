@@ -32,3 +32,7 @@ Route::get('/langs/{id}', function ($id) {
 
     return view('langStar', ["lang"=> $langs[$id-1]]);
 });
+
+Route::get('/api-info', function(){
+    return view('api');
+});

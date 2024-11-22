@@ -12,6 +12,7 @@
         <div class="absolute bottom-0 mb-8">
             <a href="/about" class=" text-sm p-1 hover:text-blue-800">About Page</a>
             <a href="/langs" class=" text-sm p-1 hover:text-blue-800">Language</a>
+            <a href="/api-info" class=" text-sm p-1 hover:text-blue-800">API Info</a>
         </div>
     </div>
     
